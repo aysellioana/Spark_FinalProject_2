@@ -1,0 +1,10 @@
+[
+  {"USER_ID": 1, "FIRST_NAME": "Robert", "LAST_NAME": "Smith"},
+  {"USER_ID": 2, "FIRST_NAME": "John", "LAST_NAME": "Johnson"},
+  {"USER_ID": 3, "FIRST_NAME": "Alex", "LAST_NAME": "Jones"},
+  {"USER_ID": 5, "FIRST_NAME": "Emma", "LAST_NAME": "Watson"},
+  {"USER_ID": 7, "FIRST_NAME": "David", "LAST_NAME": "Brown"},
+  {"USER_ID": 11, "FIRST_NAME": "Michael", "LAST_NAME": "Davis"},
+  {"USER_ID": 14, "FIRST_NAME": "Sophia", "LAST_NAME": "Martinez"},
+  {"USER_ID": 33, "FIRST_NAME": "Daniel", "LAST_NAME": "Wilson"}
+]
